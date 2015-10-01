@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcom to Jekyll blog!"
-published: false
+published: true
 ---
 
 
